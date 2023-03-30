@@ -1,0 +1,15 @@
+C:\Users\45922978810\Desktop\estruturas condicionais c#\bin\Debug\net7.0\estruturas condicionais c#.exe
+C:\Users\45922978810\Desktop\estruturas condicionais c#\bin\Debug\net7.0\estruturas condicionais c#.deps.json
+C:\Users\45922978810\Desktop\estruturas condicionais c#\bin\Debug\net7.0\estruturas condicionais c#.runtimeconfig.json
+C:\Users\45922978810\Desktop\estruturas condicionais c#\bin\Debug\net7.0\estruturas condicionais c#.dll
+C:\Users\45922978810\Desktop\estruturas condicionais c#\bin\Debug\net7.0\estruturas condicionais c#.pdb
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\estruturas condicionais c#.csproj.AssemblyReference.cache
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\estruturas condicionais c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\estruturas condicionais c#.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\estruturas condicionais c#.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\estruturas condicionais c#.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\estruturas condicionais c#.dll
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\refint\estruturas condicionais c#.dll
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\estruturas condicionais c#.pdb
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\estruturas condicionais c#.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\estruturas condicionais c#\obj\Debug\net7.0\ref\estruturas condicionais c#.dll
