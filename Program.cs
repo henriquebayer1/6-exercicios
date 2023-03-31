@@ -57,24 +57,27 @@
 
 //Exercicio 3
 
-int equilatero = 3;
-int Isoscele = 2;
-int escaleno = 0;
+// int equilatero = 3;
+// int Isoscele = 2;
+// int escaleno = -3;
 
 
-Console.WriteLine($"Informe quantos lados iguais tem o seu triangulo:");
-int ladosIguais = int.Parse(Console.ReadLine());
+// Console.WriteLine($"Informe quantos lados iguais ou diferentes tem o seu triangulo sendo numeros positivos lados iguais e numeros negativos lados diferentes:");
+// int ladosIguais = int.Parse(Console.ReadLine());
 
 
 
-if(equilatero == 3)
-{Console.WriteLine($"E um equilatero");
-}
-else if(Isoscele == 2)
-{Console.WriteLine($"E um Isoscele");
-}
- else {System.Console.WriteLine($"E um escaleno");}
-
+// if(ladosIguais == 3)
+// {Console.WriteLine($"E um equilatero");
+// }
+// else if(ladosIguais == 2)
+// {Console.WriteLine($"E um isoscele");
+// }
+//  else if(ladosIguais == -3)
+// {Console.WriteLine($"E um escaleno");
+// }
+// else {Console.WriteLine($"nao ha nenhum triangulo com essas especificacoes");
+// }
 
 
 
@@ -105,11 +108,15 @@ else if(Isoscele == 2)
 //Exercicio 5
 
 
-// float macasMenosUmaduzia = 0.30f;
-// float macasUmaduzia = 0.25f;
+// Console.WriteLine($"Informe quantas macas foram compradas:");
+// float macasCompradas = float.Parse(Console.ReadLine());
 
-// if(macasMenosUmaduzia)
-// {}
+// if(macasCompradas <= 6) 
+// {Console.WriteLine(("o valor a pagar e R$" + 0.30 * macasCompradas));
+// }
+// else{Console.WriteLine(("o valor a pagar e R$" + 0.25 * macasCompradas));
+// }
+
 
 
 
@@ -120,5 +127,18 @@ else if(Isoscele == 2)
 //Exercicio 6
 
 
+// Console.WriteLine($"Informe a nota do aluno:");
+// float media = float.Parse(Console.ReadLine());
+
+// Console.WriteLine($"Informe a frequencia do aluno (numeros inteiros. ex: 30 = 30%):");
+// float frequencia = float.Parse(Console.ReadLine());
+
+// if(frequencia <= 74)
+// {Console.WriteLine($"aluno reprovado");
+// }
+// else if(media >= 7)
+// {Console.WriteLine($"aluno aprovado");
+// }
+// else {System.Console.WriteLine($"aluno reprovado");}
 
 
